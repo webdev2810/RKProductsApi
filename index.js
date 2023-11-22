@@ -1,3 +1,4 @@
+import { useParams } from "react-router-dom";
 const express = require("express");
 const cors = require('cors')
 
@@ -18,6 +19,8 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
+const {id} = useParams();
+console.log(id);
 app.get("/products/id", (req, res) => {
   // let sProduct = productData.json.find(req.params.id);
   // if (!sProduct) {
