@@ -19,9 +19,13 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
-app.get("/products:id", (req, res) => {
-  let singleApiData = apiData.find(`${id}`);
-  res.json(singleApiData);
+app.get("/singleProduct", (req, res) => {
+  // let singleApiData = apiData.find(`${id}`);
+  // res.json(singleApiData);
+
+  productId = req.product.id;
+    const sProduct = apiData.findById(productId);
+    res.send(sProduct);
 
   // if (!sProduct) {
   //   return res.status(404).send("Product Not Found");
@@ -29,7 +33,7 @@ app.get("/products:id", (req, res) => {
   // if (sProduct.Product.toString() !== req.user.id) {
   //   return res.status(200).send(singleApiData);
   // }
-  res.send(singleApiData)
+  // res.send(singleApiData)
 })
 app.listen(port, () => {
   console.log(`RKJwells API Keys listening on port`);
