@@ -21,7 +21,7 @@ app.get("/products", (req, res) => {
 })
 app.get("/singleProduct/:id", async (req, res) => {
   
-  const sProduct = await singleApiData.findById(req.params.id);
+  const sProduct = await singleApiData.find(`${id}`);
 
   
   res.send(sProduct);
