@@ -1,26 +1,6 @@
-// const connectToMongo = require("./db");
-// const express = require("express");
-// var cors = require('cors')
-
-// connectToMongo();
-// var app = express()
-// const port = 5000;
-
-// app.use(cors())
-// app.use(express.json())
-
-
-// //Available Routes
-// app.use('/api/products', require('./routes/products'))
-
-// app.listen(port, () => {
-//   console.log(`RKJwells API Keys listening on port ${port}`);
-// });
-
-
-
 const express = require("express");
 const cors = require('cors')
+import Product from "./productData.json"
 
 const app = express()
 const port = process.env.PORT || 5000;
@@ -39,8 +19,15 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
-app.get("/singleproduct", (req, res) => {
-  res.send(singleApiData)
+app.get("/singleproduct/:id", (req, res) => {
+  let sProduct = Product.findById(req.params.id);
+  if (!sProduct) {
+    return res.status(404).send("Product Not Found");
+  }
+  if (sProduct.Product.toString() !== req.user.id) {
+    return res.status(200).send(singleApiData);
+  }
+  // res.send(singleApiData)
 })
 app.listen(port, () => {
   console.log(`RKJwells API Keys listening on port`);
