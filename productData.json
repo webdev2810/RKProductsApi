@@ -100,8 +100,128 @@
             "#000000"
         ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des6",
+        "description": "des7",
         "category": "Cat2",
+        "featured": true
+    },
+    {
+        "id": 8,
+        "name": "This8",
+        "company": "company1",
+        "price": 2500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des8",
+        "category": "Cat1",
+        "featured": true
+    },
+    {
+        "id": 9,
+        "name": "This9",
+        "company": "company2",
+        "price": 500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des9",
+        "category": "Cat2",
+        "featured": false
+    },
+    {
+        "id": 10,
+        "name": "This10",
+        "company": "company3",
+        "price": 5100000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des10",
+        "category": "Cat1",
+        "featured": false
+    },
+    {
+        "id": 11,
+        "name": "This11",
+        "company": "company1",
+        "price": 6500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des11",
+        "category": "Cat1",
+        "featured": false
+    },
+    {
+        "id": 12,
+        "name": "This12",
+        "company": "company2",
+        "price": 600000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des12",
+        "category": "Cat2",
+        "featured": false
+    },
+    {
+        "id": 13,
+        "name": "This13",
+        "company": "company3",
+        "price": 3200000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des13",
+        "category": "Cat1",
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "This14",
+        "company": "company1",
+        "price": 3500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des14",
+        "category": "Cat2",
+        "featured": false
+    },
+    {
+        "id": 15,
+        "name": "This15",
+        "company": "company2",
+        "price": 5900000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "image": "http://lo15alhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "description": "des15",
+        "category": "Cat1",
         "featured": true
     }
 ]
