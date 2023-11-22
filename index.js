@@ -18,6 +18,7 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
+const id = req.params.id;
 app.get(`/products?id=${id}`, (req, res) => {
   // let sProduct = productData.json.find(req.params.id);
   // if (!sProduct) {
