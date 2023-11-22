@@ -12,7 +12,7 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des1",
         "category": "Cat1",
-        "featured": "true"
+        "featured": true
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des2",
         "category": "Cat2",
-        "featured": "false"
+        "featured": false
     },
     {
         "id": 3,
@@ -42,7 +42,7 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des3",
         "category": "Cat1",
-        "featured": "true"
+        "featured": true
     },
     {
         "id": 4,
@@ -57,7 +57,7 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des4",
         "category": "Cat2",
-        "featured": "false"
+        "featured": false
     },
     {
         "id": 5,
@@ -72,7 +72,7 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des5",
         "category": "Cat2",
-        "featured": "false"
+        "featured": false
     },
     {
         "id": 6,
@@ -87,7 +87,7 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des6",
         "category": "Cat1",
-        "featured": "false"
+        "featured": false
     },
     {
         "id": 7,
@@ -102,6 +102,6 @@
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des6",
         "category": "Cat2",
-        "featured": "true"
+        "featured": true
     }
 ]
