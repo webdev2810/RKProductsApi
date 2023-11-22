@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
-app.get("/singleproduct/:id", (req, res) => {
+app.get("/singleproduct/id", (req, res) => {
   let sProduct = productData.json.findById(req.params.id);
   if (!sProduct) {
     return res.status(404).send("Product Not Found");
