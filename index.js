@@ -19,11 +19,9 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
-app.get("/singleProduct/:id",
-//  async
- (req, res) => {
+app.get("/singleProduct/:id", async (req, res) => {
   
-  // let sProduct = await singleApiData.findById(req.params.id);
+  const sProduct = await singleApiData.find(req.id);
 
   
   res.send(sProduct);
