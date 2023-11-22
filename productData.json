@@ -219,7 +219,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://lo15alhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
         "description": "des15",
         "category": "Cat1",
         "featured": true
