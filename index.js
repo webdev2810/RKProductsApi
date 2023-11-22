@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require('cors')
-import Product from "./productData.json"
 
 const app = express()
 const port = process.env.PORT || 5000;
@@ -20,7 +19,7 @@ app.get("/products", (req, res) => {
   res.send(apiData)
 })
 app.get("/singleproduct/:id", (req, res) => {
-  let sProduct = Product.findById(req.params.id);
+  let sProduct = productData.json.findById(req.params.id);
   if (!sProduct) {
     return res.status(404).send("Product Not Found");
   }
