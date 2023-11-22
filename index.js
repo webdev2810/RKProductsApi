@@ -22,14 +22,9 @@ app.get("/products", (req, res) => {
 app.get("/singleProduct/:id", (req, res) => {
 
 
-  let sProduct = singleApiData.findById(`${id}`);
-  // if (!sProduct) {
-  //   return res.status(404).send("Product Not Found");
-  // }
-  // if (sProduct.Product.toString() !== req.user.id) {
-  //   return res.status(200).send(singleApiData);
-  // }
-  res.send({sProduct});
+  // let sProduct = singleApiData.findById(`${id}`);
+  
+  res.send({singleApiData});
 })
 app.listen(port, () => {
   console.log(`RKJwells API Keys listening on port`);
