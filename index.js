@@ -29,7 +29,7 @@ app.get("/singleProduct/:id", (req, res) => {
   // if (sProduct.Product.toString() !== req.user.id) {
   //   return res.status(200).send(singleApiData);
   // }
-  res.send(singleApiData.id)
+  res.send(singleApiData)
 })
 app.listen(port, () => {
   console.log(`RKJwells API Keys listening on port`);
