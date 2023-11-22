@@ -19,7 +19,8 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
-app.get(`/singleProduct/${id}`, (req, res) => {
+app.get("/singleProduct/:id", (req, res) => {
+
 
   // let sProduct = singleApiData.findById(`${id}`);
   
