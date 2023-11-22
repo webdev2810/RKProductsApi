@@ -23,8 +23,7 @@ app.get("/products/:id", (req, res) => {
   // let singleApiData = apiData.find(`${id}`);
   // res.json(singleApiData);
 
-  productId = req.product.id;
-    const sProduct = apiData.findById(productId);
+    const sProduct = find({productData: req.productData.id});
     res.send(sProduct);
 
   // if (!sProduct) {
