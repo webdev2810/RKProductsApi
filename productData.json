@@ -1,44 +1,107 @@
 [
     {
         "id": 1,
-        "title": "This1",
+        "name": "This1",
+        "company": "company1",
+        "price": 600000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des1"
+        "description": "des1",
+        "category": "Cat1",
+        "featured": "true"
     },
     {
         "id": 2,
-        "title": "This2",
+        "name": "This2",
+        "company": "company2",
+        "price": 30000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des2"
+        "description": "des2",
+        "category": "Cat2",
+        "featured": "false"
     },
     {
         "id": 3,
-        "title": "This3",
+        "name": "This3",
+        "company": "company3",
+        "price": 3500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des3"
+        "description": "des3",
+        "category": "Cat1",
+        "featured": "true"
     },
     {
         "id": 4,
-        "title": "This4",
+        "name": "This4",
+        "company": "company1",
+        "price": 500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des4"
+        "description": "des4",
+        "category": "Cat2",
+        "featured": "false"
     },
     {
         "id": 5,
-        "title": "This5",
+        "name": "This5",
+        "company": "company1",
+        "price": 5000000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des5"
+        "description": "des5",
+        "category": "Cat2",
+        "featured": "false"
     },
     {
         "id": 6,
-        "title": "This6",
+        "name": "This6",
+        "company": "company3",
+        "price": 4500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des6"
+        "description": "des6",
+        "category": "Cat1",
+        "featured": "false"
     },
     {
-        "id": 6,
-        "title": "This6",
+        "id": 7,
+        "name": "This7",
+        "company": "company3",
+        "price": 5500000,
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-        "description": "des6"
+        "description": "des6",
+        "category": "Cat2",
+        "featured": "true"
     }
 ]
