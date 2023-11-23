@@ -19,12 +19,12 @@ app.get("/", (req, res) => {
 app.get("/products", (req, res) => {
   res.send(apiData)
 })
-app.get("/singleProduct/:id",  (req, res) => {
+app.get("/singleproduct/:id",  (req, res) => {
 
 
-  // let sProduct = singleApiData.findById(`${id}`);
+  let sProduct = singleApiData.find(req.params.id);
   
-  res.send({singleApiData});
+  res.send(sProduct);
 })
 app.listen(port, () => {
   console.log(`RKJwells API Keys listening on port`);
