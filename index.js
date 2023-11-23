@@ -31,7 +31,7 @@ app.get('/api/products/:id', (req, res) => {
     if (product) {
       res.send(product);
     } else {
-      res.status(404).json({ error: 'Product not found' });
+      res.status(404).send({ error: 'Product not found' });
     }
   });
 // app.get("/products/singleproduct/:id",  (req, res) => {
