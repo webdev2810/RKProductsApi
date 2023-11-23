@@ -26,7 +26,7 @@ app.get("/api/products", (req, res) => {
 
 app.get('/api/products/:id', (req, res) => {
     const productId = parseInt(req.params.id);
-    const product = products.find(p => p.id === productId);
+    const product = singleApiData.find(p => p.id === productId);
   
     if (product) {
       res.json(product);
