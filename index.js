@@ -29,7 +29,7 @@ app.get('/api/products/:id', (req, res) => {
     const product = singleApiData.find(p => p.id === productId);
   
     if (product) {
-      res.json(product);
+      res.send(product);
     } else {
       res.status(404).json({ error: 'Product not found' });
     }
