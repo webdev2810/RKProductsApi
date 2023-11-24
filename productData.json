@@ -24,7 +24,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://www.giva.co/cdn/shop/products/PD061_1_500x500.jpg?v=1652443713g",
         "description": "des2",
         "category": "Cat2",
         "featured": false
@@ -39,7 +39,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://www.giva.co/cdn/shop/files/BR0122_1_500x500.jpg?v=1694771738",
         "description": "des3",
         "category": "Cat1",
         "featured": true
@@ -69,7 +69,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://www.giva.co/cdn/shop/products/BR029_1_73732f86-04ba-48d9-b56d-e361525e7490_500x500.jpg?v=1631028689",
         "description": "des5",
         "category": "Cat2",
         "featured": false
@@ -84,7 +84,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/R0636_1_360x.jpg?v=1654754716",
         "description": "des6",
         "category": "Cat1",
         "featured": false
@@ -99,7 +99,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/PD0194_1_389df604-9070-4329-8924-21c387924766_360x.jpg?v=1679919843",
         "description": "des7",
         "category": "Cat2",
         "featured": true
@@ -114,7 +114,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/files/PD01992_1_360x.jpg?v=1691072883",
         "description": "des8",
         "category": "Cat1",
         "featured": true
@@ -129,7 +129,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/files/PD0485_1_360x.jpg?v=1697289747",
         "description": "des9",
         "category": "Cat2",
         "featured": false
@@ -144,7 +144,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/PD003_1_360x.jpg?v=1681210992",
         "description": "des10",
         "category": "Cat1",
         "featured": false
@@ -159,7 +159,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/files/A0133_2_360x.jpg?v=1696309821",
         "description": "des11",
         "category": "Cat1",
         "featured": false
@@ -174,7 +174,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/files/AVPD0155_1_360x.jpg?v=1694774331",
         "description": "des12",
         "category": "Cat2",
         "featured": false
@@ -189,7 +189,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/files/PD0672_1_360x.jpg?v=1698329460",
         "description": "des13",
         "category": "Cat1",
         "featured": false
@@ -204,7 +204,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/PD0730_1_360x.jpg?v=1645981266",
         "description": "des14",
         "category": "Cat2",
         "featured": false
@@ -219,7 +219,7 @@
             "#fff",
             "#000000"
         ],
-        "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/NP011_1_360x.jpg?v=1626447521",
         "description": "des15",
         "category": "Cat1",
         "featured": true
