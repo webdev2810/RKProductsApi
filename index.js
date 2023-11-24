@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 
-const products = require("./productData.json")
+const products  = require("./productData.json")
 const singleApiData = require("./singleProductData.json");
 const chainData = require("./chainProductData.json")
 
