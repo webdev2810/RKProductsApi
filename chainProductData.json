@@ -1,0 +1,62 @@
+[
+    {
+    "id": "Chain1",
+    "name": "Chain1",
+    "company": "company1",
+    "price": 600000,
+    "colors": [
+        "#e94560",
+        "#fff",
+        "#000000"
+    ],
+    "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+    "description": "des1",
+    "category": "Chain",
+    "featured": true
+},
+{
+    "id": "Chain2",
+    "name": "Chain2",
+    "company": "company2",
+    "price": 30000,
+    "colors": [
+        "#e94560",
+        "#fff",
+        "#000000"
+    ],
+    "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+    "description": "des2",
+    "category": "Chain",
+    "featured": false
+},
+{
+    "id": "Chain3",
+    "name": "Chain3",
+    "company": "company3",
+    "price": 3500000,
+    "colors": [
+        "#e94560",
+        "#fff",
+        "#000000"
+    ],
+    "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+    "description": "des3",
+    "category": "Chain",
+    "featured": true
+},
+{
+    "id": "Chain4",
+    "name": "Chain4",
+    "company": "company1",
+    "price": 500000,
+    "colors": [
+        "#e94560",
+        "#fff",
+        "#000000"
+    ],
+    "image": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
+    "description": "des4",
+    "category": "Chain",
+    "featured": false
+}
+]
