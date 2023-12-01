@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "This1",
+        "name": "Bichiya1",
         "company": "company1",
         "price": 600000,
         "colors": [
@@ -16,7 +16,7 @@
     },
     {
         "id": 2,
-        "name": "This2",
+        "name": "Bichiya2",
         "company": "company2",
         "price": 30000,
         "colors": [
@@ -31,7 +31,7 @@
     },
     {
         "id": 3,
-        "name": "This3",
+        "name": "Payal",
         "company": "company3",
         "price": 3500000,
         "colors": [
@@ -46,7 +46,7 @@
     },
     {
         "id": 4,
-        "name": "This4",
+        "name": "Ganeshji",
         "company": "company1",
         "price": 500000,
         "colors": [
@@ -61,7 +61,7 @@
     },
     {
         "id": 5,
-        "name": "This5",
+        "name": "Payal1",
         "company": "company1",
         "price": 5000000,
         "colors": [
@@ -76,7 +76,7 @@
     },
     {
         "id": 6,
-        "name": "This6",
+        "name": "Bracelet",
         "company": "company3",
         "price": 4500000,
         "colors": [
@@ -91,7 +91,7 @@
     },
     {
         "id": 7,
-        "name": "This7",
+        "name": "Bracelet1",
         "company": "company3",
         "price": 5500000,
         "colors": [
@@ -106,7 +106,7 @@
     },
     {
         "id": 8,
-        "name": "This8",
+        "name": "Bichiya3",
         "company": "company1",
         "price": 2500000,
         "colors": [
@@ -121,7 +121,7 @@
     },
     {
         "id": 9,
-        "name": "This9",
+        "name": "ItalianChain",
         "company": "company2",
         "price": 500000,
         "colors": [
@@ -136,7 +136,7 @@
     },
     {
         "id": 10,
-        "name": "This10",
+        "name": "Bichiya4",
         "company": "company3",
         "price": 5100000,
         "colors": [
@@ -151,7 +151,7 @@
     },
     {
         "id": 11,
-        "name": "This11",
+        "name": "ItalianChain1",
         "company": "company1",
         "price": 6500000,
         "colors": [
@@ -166,7 +166,7 @@
     },
     {
         "id": 12,
-        "name": "This12",
+        "name": "Hanumanji",
         "company": "company2",
         "price": 600000,
         "colors": [
@@ -181,7 +181,7 @@
     },
     {
         "id": 13,
-        "name": "This13",
+        "name": "ItalianPayal",
         "company": "company3",
         "price": 3200000,
         "colors": [
@@ -196,7 +196,7 @@
     },
     {
         "id": 14,
-        "name": "This14",
+        "name": "ItalianPayal1",
         "company": "company1",
         "price": 3500000,
         "colors": [
@@ -211,7 +211,7 @@
     },
     {
         "id": 15,
-        "name": "This15",
+        "name": "Laxmiji",
         "company": "company2",
         "price": 5900000,
         "colors": [
