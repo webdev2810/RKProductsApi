@@ -230,22 +230,6 @@
         "italian": ""
     },
     {
-        "id": 23,
-        "name": "Bichiya4",
-        "company": "company3",
-        "price": 5100000,
-        "colors": [
-            "#e94560",
-            "#fff",
-            "#000000"
-        ],
-        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/PD003_1_360x.jpg?v=1681210992",
-        "description": "des10",
-        "category": "Bichiya",
-        "featured": false,
-        "italian": ""
-    },
-    {
         "id": 11,
         "name": "ItalianChain1",
         "company": "company1",
