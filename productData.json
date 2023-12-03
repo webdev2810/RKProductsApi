@@ -80,7 +80,7 @@
         "company": "",
         "price": 129900,
         "colors": [],
-        "image": "../bracelet1.jpeg",
+        "image": "../public/images/RKLogo.png",
         "description": "Antique Polish | 9.300 gram weighted | 125 Rs. per gram",
         "category": "Bracelet",
         "featured": true
