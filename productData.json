@@ -77,17 +77,13 @@
     {
         "id": 6,
         "name": "Bracelet",
-        "company": "company3",
-        "price": 4500000,
-        "colors": [
-            "#e94560",
-            "#fff",
-            "#000000"
-        ],
-        "image": "https://cdn.shopify.com/s/files/1/0061/8378/0442/products/R0636_1_360x.jpg?v=1654754716",
-        "description": "des6",
+        "company": "",
+        "price": 129900,
+        "colors": [],
+        "image": "blob:https://web.whatsapp.com/b1eb7b56-8e12-4769-ab83-394e4b967872",
+        "description": "Antique Polish | 9.300 gram weighted | 125 Rs. per gram",
         "category": "Bracelet",
-        "featured": false
+        "featured": true
     },
     {
         "id": 7,
