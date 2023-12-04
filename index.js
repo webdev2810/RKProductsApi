@@ -12,7 +12,6 @@ app.use(cors());
 
 const products  = require("./productData.json")
 const singleApiData = require("./singleProductData.json");
-const chainData = require("./chainProductData.json")
 
 
 app.get("/", (req, res) => {
@@ -22,9 +21,7 @@ app.get("/", (req, res) => {
 app.get("/api/products", (req, res) => {
   res.send(products)
 })
-app.get("/api/products/chains", (req, res) => {
-  res.send(chainData)
-})
+
 
 app.get('/api/products/:id', (req, res) => {
     const productId = parseInt(req.params.id);
