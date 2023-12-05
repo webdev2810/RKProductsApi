@@ -27,7 +27,7 @@ const storage = multer.diskStorage({
 const upload = multer({ storage });
 
 // Define a route for image upload
-app.post('/upload', upload.single('image'), (req, res) => {
+app.post('/api/upload', upload.single('image'), (req, res) => {
   // Handle the uploaded file
   const uploadedFilePath = req.file.path;
   console.log('Image uploaded to:', uploadedFilePath);
