@@ -42,15 +42,6 @@
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
-            },
-            {
-                "id": "random1",
-                "width": 1080,
-                "height": 650,
-                "url": "http://localhost:3000/static/media/rk_nav_mono.a4b92e780893535d2a35.png",
-                "filename": "prod-1.png",
-                "size": 1080,
-                "type": "image/png"
             }
         ]
     },
