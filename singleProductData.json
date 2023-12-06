@@ -1,6 +1,6 @@
 [
     {
-        "id": "thapaserialnoa",
+        "id": 1,
         "name": "3d Dragon Bracelet",
         "price": 232570,
         "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "Antiq Bracelet",
+        "id": 2,
         "name": "Antiq Bracelet",
         "price": 322400,
         "description": "Antiq Bracelet with 92.50 Purity | Gross Weight is 24.800 gm | 130Rs. per gram.",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "Black Polish Bracelet",
+        "id": 3,
         "name": "Black Polish Bracelet",
         "price": 469300,
         "description": "Black Polish Bracelet with 92.50 Purity | Gross Weight is 36.100 gm | 130Rs. per gram.",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "id": "Dragon Bracelet",
+        "id": 4,
         "name": "Dragon Bracelet",
         "price": 340600,
         "description": "Dragon Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "id": "Heavy Dragon Bracelet",
+        "id": 5,
         "name": "Heavy Dragon Bracelet",
         "price": 465400,
         "description": "Heavy Dragon Bracelet with 92.50 Purity | Gross Weight is 35.800 gm | 130Rs. per gram.",
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "id": "Dragon Face Bracelet",
+        "id": 6,
         "name": "Dragon Face Bracelet",
         "price": 340600,
         "description": "Dragon Face Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "id": "Turtle Bracelet",
+        "id": 7,
         "name": "Turtle Bracelet",
         "price": 166140,
         "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 12.780 gm | 130Rs. per gram.",
@@ -326,7 +326,7 @@
         ]
     },
     {
-        "id": "White Polish Bracelet",
+        "id": 8,
         "name": "White Polish Bracelet",
         "price": 76050,
         "description": "White Polish Bracelet with 92.50 Purity | Gross Weight is 5.850 gm | 130Rs. per gram.",
@@ -367,7 +367,7 @@
         ]
     },
     {
-        "id": "3d Dragon Bracelet",
+        "id": 9,
         "name": "This1",
         "price": 232570,
         "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
