@@ -1,17 +1,14 @@
 [
     {
-        "id": 1,
-        "name": "Bichiya1",
-        "company": "company1",
-        "price": 600000,
-        "colors": [
-            "#e94560",
-            "#fff",
-            "#000000"
-        ],
-        "image": "https://i.ibb.co/4mkhJ63/Screenshot-2023-1204-022454.png",
-        "description": "des1",
-        "category": "Bichiya",
+        "id": "3d Dragon Bracelet",
+        "name": "3d Dragon",
+        "price": 232570,
+        
+        "image": "https://i.ibb.co/3fxm57K/IMG-1360.jpg",
+        "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
         "featured": true
     },
     {
