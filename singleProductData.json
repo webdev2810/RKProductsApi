@@ -4,6 +4,11 @@
         "name": "3d Dragon Bracelet",
         "price": 232570,
         "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -45,6 +50,11 @@
         "name": "Antiq Bracelet",
         "price": 322400,
         "description": "Antiq Bracelet with 92.50 Purity | Gross Weight is 24.800 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -86,6 +96,11 @@
         "name": "Black Polish Bracelet",
         "price": 469300,
         "description": "Black Polish Bracelet with 92.50 Purity | Gross Weight is 36.100 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -177,6 +192,11 @@
         "name": "Heavy Dragon Bracelet",
         "price": 465400,
         "description": "Heavy Dragon Bracelet with 92.50 Purity | Gross Weight is 35.800 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -218,6 +238,11 @@
         "name": "Dragon Face Bracelet",
         "price": 340600,
         "description": "Dragon Face Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -259,6 +284,11 @@
         "name": "Turtle Bracelet",
         "price": 166140,
         "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 12.780 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -341,6 +371,11 @@
         "name": "This1",
         "price": 232570,
         "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
