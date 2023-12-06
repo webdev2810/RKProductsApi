@@ -142,6 +142,11 @@
         "name": "Dragon Bracelet",
         "price": 340600,
         "description": "Dragon Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
