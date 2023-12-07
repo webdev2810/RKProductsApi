@@ -340,6 +340,61 @@
         ]
     },
     {
+        "id": 8,
+        "name": "White Bracelet",
+        "price": 105300,
+        "description": "White Bracelet with 92.50 Purity | Gross Weight is 8.100 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/QcsQFcm/Remove-background-project-3.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/X32zMq2/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/tm1bvQB/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/Yftjkz2/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
         "id": 9,
         "name": "White Polish Bracelet",
         "price": 76050,
@@ -359,61 +414,6 @@
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
-            },
-            {
-                "id": 8,
-                "name": "White Bracelet",
-                "price": 105300,
-                "description": "White Bracelet with 92.50 Purity | Gross Weight is 8.100 gm | 130Rs. per gram.",
-                "colors": [
-                    "#e94560",
-                    "#fff",
-                    "#000000"
-                ],
-                "category": "Bracelet",
-                "genCategory": "Male",
-                "maleCategory": "Bracelet",
-                "featured": true,
-                "stock": 1,
-                "stars": 4.2,
-                "image": [
-                    {
-                        "id": "random1",
-                        "width": 1080,
-                        "height": 650,
-                        "url": "https://i.ibb.co/QcsQFcm/Remove-background-project-3.png",
-                        "filename": "prod-1.png",
-                        "size": 1080,
-                        "type": "image/png"
-                    },
-                    {
-                        "id": "random1",
-                        "width": 1080,
-                        "height": 650,
-                        "url": "https://i.ibb.co/X32zMq2/Remove-background-project-1.png",
-                        "filename": "prod-1.png",
-                        "size": 1080,
-                        "type": "image/png"
-                    },
-                    {
-                        "id": "random1",
-                        "width": 1080,
-                        "height": 650,
-                        "url": "https://i.ibb.co/tm1bvQB/Remove-background-project.png",
-                        "filename": "prod-1.png",
-                        "size": 1080,
-                        "type": "image/png"
-                    },
-                    {
-                        "id": "random1",
-                        "width": 1080,
-                        "height": 650,
-                        "url": "https://i.ibb.co/Yftjkz2/Remove-background-project-2.png",
-                        "filename": "prod-1.png",
-                        "size": 1080,
-                        "type": "image/png"
-                    }
-                ]
             },
             {
                 "id": "random1",
