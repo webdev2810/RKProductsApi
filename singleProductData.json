@@ -434,5 +434,327 @@
                 "type": "image/png"
             }
         ]
+    },
+    {
+        "id": 10,
+        "name": "CHain",
+        "price": 209950,
+        "description": "Chain with 92.50 Purity | Gross Weight is 16.150 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chain1",
+        "price": 152100,
+        "description": "Chian2 with 92.50 Purity | Gross Weight is 11.700 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Chain2",
+        "price": 198900,
+        "description": "Chain3 with 92.50 Purity | Gross Weight is 15.300 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "CHain3",
+        "price": 1673750,
+        "description": "Chain4 with 92.50 Purity | Gross Weight is 128.750 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "ButterFly Bracelet",
+        "price": 120900,
+        "description": "ButterFly Bracelet with 92.50 Purity | Gross Weight is 9.300 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Flower Bracelet",
+        "price": 145600,
+        "description": "Flower Bracelet with 92.50 Purity | Gross Weight is 11.200 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Turtle Bracelet",
+        "price": 126750,
+        "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 9.750 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true,
+        "stock": 2,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XZS4tk1/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0qFZfSn/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
     }
 ]
