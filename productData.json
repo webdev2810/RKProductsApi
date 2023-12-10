@@ -2,10 +2,11 @@
     {
         "id": 1,
         "name": "3d Dragon Bracelet",
-        "price": 232570,
+        "price": 13000,
+        "GW": 1789,
         
         "image": "https://i.ibb.co/KwtsCXQ/Remove-background-project.png",
-        "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
+        "description": "3d Dragon Bracelet for Mens with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
         "category": "Bracelet",
         "genCategory": "Male",
         "maleCategory": "Bracelet",
@@ -14,7 +15,8 @@
     {
         "id": 2,
         "name": "Antiq Bracelet",
-        "price": 322400,
+        "price": 13000,
+        "GW": 2480,
         
         "image": "https://i.ibb.co/85GV9gP/Remove-background-project-1.png",
         "description": "Antiq Bracelet with 92.50 Purity | Gross Weight is 24.800 gm | 130Rs. per gram.",
@@ -26,7 +28,8 @@
     {
         "id": 3,
         "name": "Black Polish Bracelet",
-        "price": 469300,
+        "price": 13000,
+        "GW": 3610,
         
         "image": "https://i.ibb.co/WcM2Qhx/Remove-background-project-1.png",
         "description": "Black Polish Bracelet with 92.50 Purity | Gross Weight is 36.100 gm | 130Rs. per gram.",
@@ -38,7 +41,8 @@
     {
         "id": 4,
         "name": "Dragon Bracelet",
-        "price": 340600,
+        "price": 13000,
+        "GW": 2620,
         
         "image": "https://i.ibb.co/HGXy1M8/Remove-background-project.png",
         "description": "Dragon Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
@@ -50,7 +54,8 @@
     {
         "id": 5,
         "name": "Heavy Dragon Bracelet",
-        "price": 465400,
+        "price": 13000,
+        "GW": 3580,
         
         "image": "https://i.ibb.co/txg7HGN/Remove-background-project-1.png",
         "description": "Heavy Dragon Bracelet with 92.50 Purity | Gross Weight is 35.800 gm | 130Rs. per gram.",
@@ -62,7 +67,8 @@
     {
         "id": 6,
         "name": "Dragon Face Bracelet",
-        "price": 340600,
+        "price": 13000,
+        "GW": 2620,
         
         "image": "https://i.ibb.co/V3bJNkP/Remove-background-project-2.png",
         "description": "Dragon Face Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
@@ -74,7 +80,8 @@
     {
         "id": 7,
         "name": "Turtle Bracelet",
-        "price": 166140,
+        "price": 13000,
+        "GW": 1278,
         
         "image": "https://i.ibb.co/NCzP0Y2/Remove-background-project-1.png",
         "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 12.780 gm | 130Rs. per gram.",
@@ -86,7 +93,8 @@
     {
         "id": 8,
         "name": "White Bracelet",
-        "price": 105300,
+        "price": 13000,
+        "GW": 810,
         
         "image": "https://i.ibb.co/QcsQFcm/Remove-background-project-3.png",
         "description": "White Bracelet with 92.50 Purity | Gross Weight is 8.100 gm | 130Rs. per gram.",
@@ -98,7 +106,8 @@
     {
         "id": 9,
         "name": "White Polish Bracelet",
-        "price": 76050,
+        "price": 13000,
+        "GW": 585,
         
         "image": "https://i.ibb.co/SvL5ZZL/Remove-background-project-2.png",
         "description": "White Polish Bracelet for Mens with 92.50 Purity | Gross Weight is 5.850 gm | 130Rs. per gram.",
@@ -110,7 +119,8 @@
     {
         "id": 10,
         "name": "Chain",
-        "price": 209950,
+        "price": 13000,
+        "GW": 1615,
         
         "image": "https://i.ibb.co/hmF4bT0/IMG-1435.jpg",
         "description": "Chain with 92.50 Purity | Gross Weight is 16.150 gm | 130Rs. per gram.",
@@ -122,7 +132,8 @@
     {
         "id": 11,
         "name": "Chain1",
-        "price": 152100,
+        "price": 13000,
+        "GW": 1170,
         
         "image": "https://i.ibb.co/7JhZBR6/IMG-1440.jpg",
         "description": "Chian2 with 92.50 Purity | Gross Weight is 11.700 gm | 130Rs. per gram.",
@@ -134,7 +145,8 @@
     {
         "id": 12,
         "name": "Chain2",
-        "price": 198900,
+        "price": 13000,
+        "GW": 1530,
         
         "image": "https://i.ibb.co/7JhZBR6/IMG-1440.jpg",
         "description": "Chain3 with 92.50 Purity | Gross Weight is 15.300 gm | 130Rs. per gram.",
@@ -146,7 +158,8 @@
     {
         "id": 13,
         "name": "Chain3",
-        "price": 1673750,
+        "price": 13000,
+        "GW": 12875,
         
         "image": "https://i.ibb.co/564LfKw/IMG-1428.jpg",
         "description": "Chain4 with 92.50 Purity | Gross Weight is 128.750 gm | 130Rs. per gram.",
@@ -158,7 +171,8 @@
     {
         "id": 14,
         "name": "ButterFly Bracelet",
-        "price": 120900,
+        "price": 13000,
+        "GW": 930,
         
         "image": "https://i.ibb.co/SQGKMd7/Remove-background-project.png",
         "description": "ButterFly Bracelet with 92.50 Purity | Gross Weight is 9.300 gm | 130Rs. per gram.",
@@ -170,7 +184,8 @@
     {
         "id": 15,
         "name": "Flower Bracelet",
-        "price": 145600,
+        "price": 13000,
+        "GW": 1120,
         
         "image": "https://i.ibb.co/DgyCFFW/Remove-background-project.png",
         "description": "Flower Bracelet with 92.50 Purity | Gross Weight is 11.200 gm | 130Rs. per gram.",
@@ -182,7 +197,8 @@
     {
         "id": 16,
         "name": "Turtle Bracelet",
-        "price": 126750,
+        "price": 13000,
+        "GW": 975,
         
         "image": "https://i.ibb.co/rs74R6m/Remove-background-project-1.png",
         "description": "Turtke Bracelet with 92.50 Purity | Gross Weight is 9.750 gm | 130Rs. per gram.",
