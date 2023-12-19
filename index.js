@@ -1,5 +1,5 @@
 const bodyParser = require('body-parser');
-
+const serverless = require('serverless-http');
 const express = require("express");
 const cors = require('cors')
 
@@ -10,8 +10,8 @@ app.use(bodyParser.json());
 app.use(cors());
 
 
-const products  = require("./productData.json")
-const singleApiData = require("./singleProductData.json");
+const products  = require("../productData.json")
+const singleApiData = require("../singleProductData.json");
 
 
 app.get("/", (req, res) => {
@@ -24,18 +24,21 @@ app.get("/api/products", (req, res) => {
 
 
 app.get('/api/products/:id', (req, res) => {
-    const productId = parseInt(req.params.id);
-    const product = singleApiData.find(p => p.id === productId);
+  const productId = parseInt(req.params.id);
+  const product = singleApiData.find(p => p.id === productId);
   
-    if (product) {
-      res.send(product);
-    } else {
-      res.status(404).send({ error: 'Product not found' });
-    }
-  });
+  if (product) {
+    res.send(product);
+  } else {
+    res.status(404).send({ error: 'Product not found' });
+  }
+});
 
 app.listen(port, () => {
   console.log(`RKJwells API Keys listening on port`);
 });
 
 
+
+app.use('/.netlify/functions/api', app);
+module.exports.handler = serverless(app);
