@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 1,
@@ -5714,4 +5715,760 @@
             }
         ]
     }
+=======
+[
+    {
+        "id": 1,
+        "name": "3d Dragon Bracelet",
+        "price": 357800,
+        "description": "3d Dragon Bracelet with 92.50 Purity | Gross Weight is 17.890 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/Fsw1Bgd/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/KwtsCXQ/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/12J5RfB/DB-3.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SRT5qVS/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Antiq Bracelet",
+        "price": 496000,
+        "description": "Antiq Bracelet with 92.50 Purity | Gross Weight is 24.800 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/85GV9gP/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/JrZtQGs/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/qJQBSQh/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Black Polish Bracelet",
+        "price": 722000,
+        "description": "Black Polish Bracelet with 92.50 Purity | Gross Weight is 36.100 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/WcM2Qhx/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/zSJrDWp/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/1TyJvR5/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dragon Bracelet",
+        "price": 524000,
+        "description": "Dragon Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/HGXy1M8/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/5Mg8mb4/D-B.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/gPB4LXp/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/3C3sRt5/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Heavy Dragon Bracelet",
+        "price": 716000,
+        "description": "Heavy Dragon Bracelet with 92.50 Purity | Gross Weight is 35.800 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/txg7HGN/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/HpQCWSS/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/5LBRHN1/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dragon Face Bracelet",
+        "price": 524000,
+        "description": "Dragon Face Bracelet with 92.50 Purity | Gross Weight is 26.200 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/V3bJNkP/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/st6jFdQ/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/tmX7ND2/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/zJYYr5j/Remove-background-project-3.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Turtle Bracelet",
+        "price": 230040,
+        "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 12.780 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/NCzP0Y2/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/Yddc7z9/IMG-1375.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/1QLjR9z/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "White Polish Bracelet",
+        "price": 117000,
+        "description": "White Polish Bracelet with 92.50 Purity | Gross Weight is 5.850 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Male",
+        "maleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/TgRrDTY/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/rbMjGqw/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/XJtrpLT/Remove-background-project-3.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/x777nZx/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Chain",
+        "price": 403750,
+        "description": "Chain with 92.50 Purity | Gross Weight is 16.150 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/hmF4bT0/IMG-1435.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/3d995R3/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/80DKmCv/IMG-1437.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chain1",
+        "price": 292500,
+        "description": "Chian2 with 92.50 Purity | Gross Weight is 11.700 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/7JhZBR6/IMG-1440.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0fctC7B/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/Dwv2j6g/IMG-1441.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Chain2",
+        "price": 382500,
+        "description": "Chain3 with 92.50 Purity | Gross Weight is 15.300 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/7JhZBR6/IMG-1440.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/0fctC7B/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/Dwv2j6g/IMG-1441.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "CHain3",
+        "price": 3218750,
+        "description": "Chain4 with 92.50 Purity | Gross Weight is 128.750 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Chain",
+        "genCategory": "Male",
+        "maleCategory": "Chain",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/564LfKw/IMG-1428.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/YXTv1mx/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/k31Kwnw/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/py8NH14/IMG-1430.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "ButterFly Bracelet",
+        "price": 232500,
+        "description": "ButterFly Bracelet with 92.50 Purity | Gross Weight is 9.300 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/SQGKMd7/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/kGhDpnN/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/QYSwsHd/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/rtfL6Gb/Remove-background-project-3.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Flower Bracelet",
+        "price": 224000,
+        "description": "Flower Bracelet with 92.50 Purity | Gross Weight is 11.200 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true,
+        "stock": 1,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/DgyCFFW/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/NSs54Rt/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/wBVrZQ0/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/fq1Pnz8/Remove-background-project-3.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Turtle Bracelet",
+        "price": 175500,
+        "description": "Turtle Bracelet with 92.50 Purity | Gross Weight is 9.750 gm | 130Rs. per gram.",
+        "colors": [
+            "#e94560",
+            "#fff",
+            "#000000"
+        ],
+        "category": "Bracelet",
+        "genCategory": "Female",
+        "femaleCategory": "Bracelet",
+        "featured": true,
+        "stock": 2,
+        "stars": 4.2,
+        "image": [
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/rs74R6m/Remove-background-project-1.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/QryxyKW/Remove-background-project.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            },
+            {
+                "id": "random1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://i.ibb.co/PwjmsQW/Remove-background-project-2.png",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+            }
+        ]
+    }
+>>>>>>> 774dee2267bcf0e686f739d0eb31188217eb7108
 ]
